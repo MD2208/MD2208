@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MD2208
+- 👋 Hi, I’m Melih Can
 - 👀 I’m interested in Mathematics, Programming, Tennis.
-- 🌱 I’m currently learning pyhton.
-- 💞️ I’m looking to collaborate on Data science
+- 🌱 I’m working on HTML, CSS, JavaScript and Pyhton.
+- 💞️ I’m looking to collaborate on Work Development.
 
 
 <!---
