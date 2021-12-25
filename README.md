@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Melih Can
 - 👀 I’m interested in Mathematics, Programming, Tennis.
-- 🌱 I’m working on HTML, CSS, JavaScript and Pyhton.
-- 💞️ I’m looking to collaborate on Work Development.
+- 🌱 I’m working on Responsive Web Design and Web Development.
+
 
 
 <!---
