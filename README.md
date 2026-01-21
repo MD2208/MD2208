@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Melih Can
-- 👀 I’m interested in Mathematics, Programming, Tennis.
-- 🌱 I’m a Full-stack Developer and an active researcher on Mathematics.
-- :fire: PhD is loading.
+- 👀 I’m interested in Mathematics, Programming, Data Analysis.
 
 
 <!---
